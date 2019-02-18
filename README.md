@@ -1,2 +1,2 @@
-# SelPrj1
+# Papa johns
 Project for selenium class
